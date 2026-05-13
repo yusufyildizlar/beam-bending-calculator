@@ -10,9 +10,8 @@ It serves as an introductory project to combine programming with engineering fun
 
 The tip deflection of a cantilever beam loaded with a point force is calculated using:
 
-\[
-\delta = \frac{F L^3}{3 E I}
-\]
+$$\delta = \frac{F L^3}{3 E I}$$
+
 
 Where:  
 - **F** = Applied force (N)  
